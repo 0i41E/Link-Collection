@@ -34,3 +34,7 @@ https://aceresponder.com/attackanimator
 ### Webapp for Commandline ofuscation
 https://argfuscator.net/
 <img width="1181" height="292" alt="image" src="https://github.com/user-attachments/assets/6664b057-cfb6-4022-8ba3-4992c6156689" />
+
+### Collection of ClickFix ideas
+https://clickfix-wiki.github.io/
+<img width="1312" height="627" alt="image" src="https://github.com/user-attachments/assets/0b73f1ee-d1a3-48c2-84c8-338367d83ac0" />
