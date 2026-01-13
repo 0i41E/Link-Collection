@@ -20,6 +20,11 @@ https://center-for-threat-informed-defense.github.io/attack-flow/ui/
 https://ntlm.pw/
 ![image](https://github.com/user-attachments/assets/81ecd08d-c545-4fcb-a023-a7e7026534b4)
 
+### Web based enumeration tool for Microsoft 365 Tenants
+https://domains.ourcloudnetwork.com/
+<img width="1426" height="679" alt="image" src="https://github.com/user-attachments/assets/b742f22b-dff0-42fd-be9d-6c45b184830f" />
+
+
 
 ### Very effective Ai tool for finding people online, based on pictures.
 https://pimeyes.com/en
@@ -38,3 +43,4 @@ https://argfuscator.net/
 ### Collection of ClickFix ideas
 https://clickfix-wiki.github.io/
 <img width="1312" height="627" alt="image" src="https://github.com/user-attachments/assets/0b73f1ee-d1a3-48c2-84c8-338367d83ac0" />
+
